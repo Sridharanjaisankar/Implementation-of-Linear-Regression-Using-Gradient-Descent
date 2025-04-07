@@ -53,6 +53,7 @@ X1_Scaled=scaler.fit_transform(X1)
 Y1_Scaled=scaler.fit_transform(y)
 print(X)
 ```
+![Screenshot 2025-04-07 105040](https://github.com/user-attachments/assets/f4fdb312-35e1-4993-9afa-18d1e873d1a1)
 
 ```
 print(X1_Scaled)
